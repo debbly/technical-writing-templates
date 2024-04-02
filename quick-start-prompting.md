@@ -1,6 +1,10 @@
 # Quick Start Build with Prompting
 This is an instructional guide and template of how to use a GPT to help build your quickstart. 
 
+```
+Depending on the organization you're working with and their AI policy, there are many ways to fine tune and provide information to an LLM. The context of this guide assumes no fine tuning, and what's being written will be publicly available.
+```
+
 Collect the necessary information you need to build up a prompt, that might be information that is more specific to the tool you are talking about. 
 
 Take the example of writing a quickstart for using the OpenWeather API. 
@@ -18,9 +22,12 @@ https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={par
 
 where the parameters are:
 
-lat (required): Latitude, decimal (-90; 90). 
-lon	(required):	Longitude, decimal (-180; 180). 
+lat (required): Latitude, decimal (-90; 90)
+
+lon	(required):	Longitude, decimal (-180; 180)
+
 appid (required): unique API key (find it on the account page under the "API key" tab)
+
 
 An example response from the API:
 
@@ -292,4 +299,5 @@ The guide should follow the structure:
 
 ```
 
-Like magic, a first draft that can help you in getting the quick start out asap!
+Like magic, you should receive a first draft! Add in any necessary information that is content specific (such as a code repository or additional resources with links). 
+
