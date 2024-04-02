@@ -11,20 +11,9 @@
 - Objectives
 
 ### Requirements
-This is the baseline knowledge needed to understand the post. 
-It's usually written in a list, like:
-- Prior knowledge needed:
--- programming concepts
--- programming languages
--- frameworks
--- system requirements
-
-Example:
 
 ### Post
 Main content of the post goes here.
-
-
 
 ### Conclusion
 
@@ -44,7 +33,19 @@ _By the end of this post, you should be able to..._
 
 ## Requirements
 
+This is the baseline knowledge needed to understand the post. 
+It's usually written in a list, like:
+- Prior knowledge needed:
+-- programming concepts
+-- programming languages
+-- frameworks
+-- system requirements
+
+Example:
+
 ## Post Body
+
+Diving in to the details of the technology, such as the intended audience, why and how they can build with this tool.
 
 ## Conclusion
 Summarize the main points.
