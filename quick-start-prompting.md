@@ -161,8 +161,6 @@ lon	(required):	Longitude, decimal (-180; 180).
 appid (required): unique API key (find it on the account page under the "API key" tab)
 
 And an example of the API results looks like
-
-```json
                 
 {
    "lat":33.44,
@@ -284,7 +282,6 @@ And an example of the API results looks like
     ...
   ]           
               
-```
 
 The guide should follow the structure:
 # Introduction
